@@ -15,8 +15,8 @@
 		02451C761CBF40A8C391D44B3C6EA70F /* PFFileState.m in Sources */ = {isa = PBXBuildFile; fileRef = 95B55CA9C5B66B5CDF2AED5208314409 /* PFFileState.m */; };
 		035179FC931BC88CD6B693710B57AE12 /* PFProductsRequestHandler.h in Headers */ = {isa = PBXBuildFile; fileRef = 86E51FE26EA968BA30F851FE32EC5039 /* PFProductsRequestHandler.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		0504F3D60DCF6DA90087863BDCA8302C /* PFObjectController_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E011245C1DF24F0449462635B865FBF /* PFObjectController_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		052FCE88C371587F9FBB6A1C4D52E6F0 /* Pods-Parse Chat-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D83BBB287457C3E5F68B08D5F9D7002 /* Pods-Parse Chat-dummy.m */; };
 		05309A361BE38ECB0D2A2ED583FBDF22 /* PFGeoPoint.h in Headers */ = {isa = PBXBuildFile; fileRef = 26219C08DE8CE069C22C2E311F852421 /* PFGeoPoint.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		059B414325319BAEA9AA5D13D5605B10 /* Pods-Parse ChatTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA6348D55F4BC17546203E3FC7A1C8 /* Pods-Parse ChatTests-dummy.m */; };
 		05CAAD27640101CE26AD8260A249C018 /* PFEventuallyPin.m in Sources */ = {isa = PBXBuildFile; fileRef = 7DBE29A176271ECDDB8C7385837D8402 /* PFEventuallyPin.m */; };
 		05E601742CF5BD4B4A36E1B430218E87 /* PFObject.h in Headers */ = {isa = PBXBuildFile; fileRef = CF9D3862C8D62D6CE434F1A29ABE84D4 /* PFObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		08018D5537DEBB0703249F71089D41B6 /* PFAnonymousUtils.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F15E70E3CD4E56E5AFF26DDDC2181E4 /* PFAnonymousUtils.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -128,6 +128,7 @@
 		4A5507D7CF1DA61978D7EF9EE4D0ECF8 /* PFFileUploadResult.h in Headers */ = {isa = PBXBuildFile; fileRef = 6D010132F8FBFBACF4C4D6102145BF61 /* PFFileUploadResult.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		4B55A5D87BFE89CBD0C842527A136440 /* PFCommandCache.m in Sources */ = {isa = PBXBuildFile; fileRef = 10DBA47F198E8F91AF6D69049E19DEFD /* PFCommandCache.m */; };
 		4BB19562B30294B81E5DFA28447C50B9 /* PFFile_Private.h in Headers */ = {isa = PBXBuildFile; fileRef = 9F2CE21DAD602D5C07517F0ED60CE760 /* PFFile_Private.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		4C1DA347F39BD954737EBF1F04C54CC0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7B56CCEACBE75D7375B9DB786504BBD /* Foundation.framework */; };
 		4C8FCE05A784A64A395A0924B3EB607C /* PFMutableACLState.m in Sources */ = {isa = PBXBuildFile; fileRef = 61A158E24CA331859D7F57C4A4F1B18C /* PFMutableACLState.m */; };
 		4CD442D41593960770F285E1FED1619A /* PFBaseState.m in Sources */ = {isa = PBXBuildFile; fileRef = 4FE54E567E43ABC6DC1CA06CC33D321F /* PFBaseState.m */; };
 		4DEA5314F10B4FAAAFB6A0B10C8AB77D /* PFFile+Synchronous.h in Headers */ = {isa = PBXBuildFile; fileRef = FC175752BC19C7DF7995BD9E8F866EB5 /* PFFile+Synchronous.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -182,6 +183,7 @@
 		688D45912D4C47BC6B4AEFF93CDA2CE5 /* PFObjectSubclassingController.m in Sources */ = {isa = PBXBuildFile; fileRef = FC469E1EA879FBFCF1AB57F179075E12 /* PFObjectSubclassingController.m */; };
 		6A503B558B5D9A6B16642642D54BAEB0 /* PFCoreManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 195D29E7E9273D916491092F91D75CE6 /* PFCoreManager.m */; };
 		6AC51D689EF418F03C59148FF9CB669D /* PFInstallationIdentifierStore.h in Headers */ = {isa = PBXBuildFile; fileRef = 4DBB90914D42D715FD0120588A9738F6 /* PFInstallationIdentifierStore.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		6C3C329CE46D7B2FA575AAB42E957D4F /* Pods-Parse ChatTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ACA6348D55F4BC17546203E3FC7A1C8 /* Pods-Parse ChatTests-dummy.m */; };
 		6D28CCDB998BF429A28F31AB56446E59 /* PFProductsRequestHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = EC362C7B8BBFEF6C900E498FA45AD079 /* PFProductsRequestHandler.m */; };
 		6DE383E1BEAAB2025345600E0B42E482 /* PFNetworkCommand.h in Headers */ = {isa = PBXBuildFile; fileRef = 40582D1D6165E776A03605FA987082FC /* PFNetworkCommand.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		6ED8BC295F228F89117861716E249729 /* PFUserController.h in Headers */ = {isa = PBXBuildFile; fileRef = 945C3E51C064F7B3E91DE41AB6D9D3D0 /* PFUserController.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -198,7 +200,6 @@
 		777348DA3474335102D348C46536603B /* PFSessionController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA8FBAE76E2902154FE51931E85DF749 /* PFSessionController.m */; };
 		77759D1B52B526FC274D90792DC2955E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7B56CCEACBE75D7375B9DB786504BBD /* Foundation.framework */; };
 		777BB7521F0A683197C78F5478C42B0A /* PFCloud+Synchronous.h in Headers */ = {isa = PBXBuildFile; fileRef = E609B418FA51D7E7DF950328B2068691 /* PFCloud+Synchronous.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		78408E9D39C565C69AC99C1A168CF5DA /* Pods-Parse Chat-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 93F484F879E6A69957A2EE8D400218A9 /* Pods-Parse Chat-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		78751FA341BC7F9D7591DC2EC64F9689 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DE91DA79B624411560B5B2457C882E07 /* Bolts.framework */; };
 		789F840DCD5926511143C5600D9ED2C6 /* PFPurchaseController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8D5B3257EC077DA4EAF1DAD7062DE0E2 /* PFPurchaseController.m */; };
 		79874386CB615ED9F03D43D4B7C004C4 /* PFMulticastDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 30FEE7BDB2260BF2B10FAC726932A212 /* PFMulticastDelegate.m */; };
@@ -286,6 +287,7 @@
 		AB7B26E45CDDBC4B90056EAAC9317196 /* PFDataProvider.h in Headers */ = {isa = PBXBuildFile; fileRef = 4CDD054A4844B37A792805E5CCD7D47C /* PFDataProvider.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		ACF09E34988B7E23F7E37258A822AA31 /* PFPinningEventuallyQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = E7E6728998BB1AE4CB72DFF988B44AC7 /* PFPinningEventuallyQueue.m */; };
 		AD6B49FF748CF7B7DCCEE9FFC736E1EA /* PFDefaultACLController.m in Sources */ = {isa = PBXBuildFile; fileRef = C5C15640118C0016323A900CFB0CBA32 /* PFDefaultACLController.m */; };
+		AE4237CAAF3D23BBDE2EEB56F0D930E8 /* Pods-Parse Chat-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 93F484F879E6A69957A2EE8D400218A9 /* Pods-Parse Chat-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AE817B8924D1AE61B24CB677FFE99687 /* PFDefaultACLController.h in Headers */ = {isa = PBXBuildFile; fileRef = 83D4D71FAA6B4165FC5829F5CB817949 /* PFDefaultACLController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		AF43C681F9B8D4F7DF04669F32E201CB /* PFEncoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3E61FC75B8249FFB5386165F50447006 /* PFEncoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		AF65D125CC590429D83FF061F2EAD5D4 /* PFObjectFilePersistenceController.h in Headers */ = {isa = PBXBuildFile; fileRef = 968B1254F7AE91B3A6EBC0F5513BF1A7 /* PFObjectFilePersistenceController.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -324,7 +326,9 @@
 		C2D3B1E12F2E84310481D4CAD07732A6 /* PFThreadsafety.m in Sources */ = {isa = PBXBuildFile; fileRef = E14473241FB575026D35D984FEBCC64E /* PFThreadsafety.m */; };
 		C3E1AA7465B7FFFAE6AC1EA08BAF26E1 /* PFInstallation.h in Headers */ = {isa = PBXBuildFile; fileRef = DB298298EF7BAA7ECF8DF0FBCFDA37BF /* PFInstallation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C40CD994AE5B8175E12948D2A1B51E17 /* PFHash.m in Sources */ = {isa = PBXBuildFile; fileRef = 765A042C3A7E1526FE33E845515EC971 /* PFHash.m */; };
+		C41C6DD6593989A1924E1070616F333F /* Pods-Parse ChatTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BF3F5E73EED021C87511A989C496FF21 /* Pods-Parse ChatTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C546B1940DC8CB8786ACE21301BA3862 /* Bolts-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D3A969479075BDCB9551D7E45A23ACAD /* Bolts-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C549ED35BCC1AB3CD478745EAE466D77 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7B56CCEACBE75D7375B9DB786504BBD /* Foundation.framework */; };
 		C55A1844829F92D8CFDA7E0CB669ED83 /* PFPin.m in Sources */ = {isa = PBXBuildFile; fileRef = 7D9D8C1BB9BB7577F2E53003658BEFB2 /* PFPin.m */; };
 		C64B68D7435A344B3DBEDEC4882D7177 /* PFPushManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FF02037F2A070F2B9D7482659EDA887 /* PFPushManager.m */; };
 		C802316888A717D9BEA7B91A6AE65DC3 /* PFRelation.h in Headers */ = {isa = PBXBuildFile; fileRef = ED16FE8832E5B0A3C3844B488E26DD31 /* PFRelation.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -346,7 +350,6 @@
 		D6A5016BF6D4DA1F12645B1CA4A626C0 /* PFFieldOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = 6FD577CDAD10053BC52C06FF1557CCA4 /* PFFieldOperation.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		D7A280917E9692A52D1BD77217D09FBE /* PFUserState.h in Headers */ = {isa = PBXBuildFile; fileRef = C2D079DA278497DEDECE2B81ABFA0E96 /* PFUserState.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		D81F0F97059B9AA20CC589C0532359E9 /* PFCommandCache.h in Headers */ = {isa = PBXBuildFile; fileRef = 46B8FD73C6833730F58A559A5905F21F /* PFCommandCache.h */; settings = {ATTRIBUTES = (Private, ); }; };
-		D8852F5BFB8D400D6B68E9017C251167 /* Pods-Parse ChatTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BF3F5E73EED021C87511A989C496FF21 /* Pods-Parse ChatTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D95B6585CDC3AA86A3EA7445F32B44EE /* PFOfflineQueryController.h in Headers */ = {isa = PBXBuildFile; fileRef = F849FB8B2B8D17514F6D1F8C17D0767B /* PFOfflineQueryController.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		D972AD3E30BEADDF3DD3AAE652633C1B /* PFFileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 61ED690DA0BE0A7F897FC7FA332F89AD /* PFFileManager.m */; };
 		D9DCDAD60E7DDB29A47018761DD01FE1 /* PFPolygon.h in Headers */ = {isa = PBXBuildFile; fileRef = 3B17A68D1791715944368247B9739A4D /* PFPolygon.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -360,7 +363,6 @@
 		DD9C1649CDB4233BC77E1F17A425395E /* PFOfflineQueryLogic.m in Sources */ = {isa = PBXBuildFile; fileRef = 338E7E24BCE25335B474B9D433EDC0F5 /* PFOfflineQueryLogic.m */; };
 		DD9D68FE64E2E92E015005A05E84F13B /* PFHash.h in Headers */ = {isa = PBXBuildFile; fileRef = 12B4A7984816DE48CBFCCAA76DB65AD8 /* PFHash.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		DDB482F9265BFFACD201E91DF5C14626 /* PFObject+Synchronous.h in Headers */ = {isa = PBXBuildFile; fileRef = 58ED423437C0D98558E81CCAA46388C1 /* PFObject+Synchronous.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		DDB77DD68BC044A52DDD918D89CBACC0 /* Pods-Parse Chat-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4D83BBB287457C3E5F68B08D5F9D7002 /* Pods-Parse Chat-dummy.m */; };
 		DDEE790FB985EB9A74B6CC75C73DA3BA /* PFLogging.h in Headers */ = {isa = PBXBuildFile; fileRef = A238F182B1F6C272DA3829CFA925168D /* PFLogging.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		DF1ED7B1AF9DF800681CEA9F4C5D9BAF /* ParseInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = 6FEB73D89A3D333248B775FB71DC9877 /* ParseInternal.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		DF54FFF0568E089EADF8AEC1FC5B20C1 /* PFFileState.h in Headers */ = {isa = PBXBuildFile; fileRef = 655BE6D1527CC0A53297573A31F5418F /* PFFileState.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -370,7 +372,6 @@
 		E1A946B4541361AB04F2EA06818A8A79 /* PFObjectFileCodingLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = A4F8C28F645D0707595BB48DD7E2B8AA /* PFObjectFileCodingLogic.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		E1D4DABD27B7FF6EF6B37ADE9D731C8B /* PFUserFileCodingLogic.h in Headers */ = {isa = PBXBuildFile; fileRef = 11280B5479BC4EF4B5A72141B3FC6018 /* PFUserFileCodingLogic.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		E297C1D8BF09E63D345F7DAAB4B21E32 /* PFSQLiteStatement.m in Sources */ = {isa = PBXBuildFile; fileRef = 0ED92957DA322396AF4802C65C5BE401 /* PFSQLiteStatement.m */; };
-		E32BF741F3B9E707DE72433FDA75B881 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7B56CCEACBE75D7375B9DB786504BBD /* Foundation.framework */; };
 		E3908E723CDA0DCB6EFF3F4BDCE237F5 /* PFAnalyticsUtilities.h in Headers */ = {isa = PBXBuildFile; fileRef = F3A9C0E59C07F823889EF43423B7FBFF /* PFAnalyticsUtilities.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		E45DD2212FB96A823524F4FAB4A925A8 /* PFObject+Subclass.h in Headers */ = {isa = PBXBuildFile; fileRef = 80DC58BDD5CAEE0FD6E726C3446D2ED1 /* PFObject+Subclass.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		E467D9CBC06B01F027A8628074A90A67 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8BC7C6C556998D594E2ABB14E985DCE8 /* QuartzCore.framework */; };
@@ -383,7 +384,6 @@
 		E89C3CAC16F72F7C92912542F4864566 /* PFSQLiteDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = 41AF1816DAE8E57813DE11BE8F1889B7 /* PFSQLiteDatabase.m */; };
 		E8AE7B2226DB18C4E2B4895C2BDD6120 /* PFURLSessionCommandRunner.h in Headers */ = {isa = PBXBuildFile; fileRef = EA924CDE9EDDE337F240D046A51CA3E4 /* PFURLSessionCommandRunner.h */; settings = {ATTRIBUTES = (Private, ); }; };
 		E8E0C93BD01F5FCF5C1C8561FA439BD2 /* PFRESTConfigCommand.m in Sources */ = {isa = PBXBuildFile; fileRef = A7D8F8F1FC95510E10A411FDAAD6E497 /* PFRESTConfigCommand.m */; };
-		E8F830A39D4BEF212E44755380579E81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7B56CCEACBE75D7375B9DB786504BBD /* Foundation.framework */; };
 		E91ACAD8FD83D1144A65650EF0084316 /* PFFileController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE83676942FBFFC9D5E9F11FC287BD0E /* PFFileController.m */; };
 		E9F3EE6AD0F4E54C40D4884F8F769B6B /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C251D7CB76F99E52E8EA71E1C0418F0B /* CoreLocation.framework */; };
 		EA20AC28D485EDAF74FBC123720EB053 /* PFUserAuthenticationController.h in Headers */ = {isa = PBXBuildFile; fileRef = 889BDB646B8511C12442F973E456EEA0 /* PFUserAuthenticationController.h */; settings = {ATTRIBUTES = (Private, ); }; };
@@ -434,13 +434,6 @@
 			remoteGlobalIDString = 2187D2AF26414EB88AF20AB16E7A24F6;
 			remoteInfo = "Parse-Parse";
 		};
-		332718A3DD3958CF1FCC3EA7E4DA054F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = F0EF469DCC50C6AC7F1A8A2D774B43C4;
-			remoteInfo = Bolts;
-		};
 		7C24E59AB4CFC05D881CFD0765B6AB30 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
@@ -448,26 +441,33 @@
 			remoteGlobalIDString = F0EF469DCC50C6AC7F1A8A2D774B43C4;
 			remoteInfo = Bolts;
 		};
-		7E1DD1717BDE564FFCABFA6C08CE1450 /* PBXContainerItemProxy */ = {
+		841D535886B7168881E90F5A43DBA897 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 967887506A672A72A27F1A8DCEA93CE3;
+			remoteGlobalIDString = 0DAF2EF4E33ABA57F284DC78B5207BE4;
+			remoteInfo = Parse;
+		};
+		B1310AA5F8B1B81364134EA62953CCCF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F0EF469DCC50C6AC7F1A8A2D774B43C4;
+			remoteInfo = Bolts;
+		};
+		BD211D1AD904DBE60F2D5CE927A3F5FD /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FF5F7189EFF244E20AD35666AA60DAE7;
 			remoteInfo = "Pods-Parse Chat";
 		};
 		EBE64A28212C9F964571ECBAF23D4604 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 967887506A672A72A27F1A8DCEA93CE3;
+			remoteGlobalIDString = FF5F7189EFF244E20AD35666AA60DAE7;
 			remoteInfo = "Pods-Parse Chat";
-		};
-		F021BCE28C62E6C86E69DE0A8988A2D7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 0DAF2EF4E33ABA57F284DC78B5207BE4;
-			remoteInfo = Parse;
 		};
 /* End PBXContainerItemProxy section */
 
@@ -944,19 +944,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		1ECA99C65BD096E2BBE53DDCE78A4946 /* Frameworks */ = {
+		31200A2EBE6F73E579241C9D111B85DE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E8F830A39D4BEF212E44755380579E81 /* Foundation.framework in Frameworks */,
+				4C1DA347F39BD954737EBF1F04C54CC0 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		2D7DF4C38FBCEF7BE68900382C9588A1 /* Frameworks */ = {
+		40AB14FD51BCB5125706B4586D49355E /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E32BF741F3B9E707DE72433FDA75B881 /* Foundation.framework in Frameworks */,
+				C549ED35BCC1AB3CD478745EAE466D77 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1582,11 +1582,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		5A6B03C55B7BC92830E88D1901E88095 /* Headers */ = {
+		9A9B7F058A60BDBA276F69B3BE03C473 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				78408E9D39C565C69AC99C1A168CF5DA /* Pods-Parse Chat-umbrella.h in Headers */,
+				C41C6DD6593989A1924E1070616F333F /* Pods-Parse ChatTests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		ADA572AE876A2186FF6AEBE9D7A0C36E /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AE4237CAAF3D23BBDE2EEB56F0D930E8 /* Pods-Parse Chat-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1603,14 +1611,6 @@
 				5B3DF84AF5B5A7E2D5A3ECCCE8B1DA42 /* BFTaskCompletionSource.h in Headers */,
 				C546B1940DC8CB8786ACE21301BA3862 /* Bolts-umbrella.h in Headers */,
 				38C3BB775F9A74255327853AE4DB34EB /* Bolts.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		D050ECFCDD66FC001D57A32B55E66384 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D8852F5BFB8D400D6B68E9017C251167 /* Pods-Parse ChatTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1902,43 +1902,23 @@
 			productReference = A91CB6B577E568A6A511B1E514831DB0 /* Pods_Parse_ChatUITests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		6DA4B9D1BE0EAE929942BFED61DDDB5F /* Pods-Parse ChatTests */ = {
+		DD55FC2DA4331F6AF34E16494DFF1B7E /* Pods-Parse ChatTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CA409A784C8711359536046147245A27 /* Build configuration list for PBXNativeTarget "Pods-Parse ChatTests" */;
+			buildConfigurationList = 9438B5C7392C06C955BDD4209521FC51 /* Build configuration list for PBXNativeTarget "Pods-Parse ChatTests" */;
 			buildPhases = (
-				D050ECFCDD66FC001D57A32B55E66384 /* Headers */,
-				EB6169B96FB36986A95E24E38E09BA4E /* Sources */,
-				1ECA99C65BD096E2BBE53DDCE78A4946 /* Frameworks */,
-				6E9B8BABC1D3DF902B8D8C22C89C9144 /* Resources */,
+				9A9B7F058A60BDBA276F69B3BE03C473 /* Headers */,
+				43232FAD605B66FD8EEAD78CCBB19EF1 /* Sources */,
+				40AB14FD51BCB5125706B4586D49355E /* Frameworks */,
+				3F79EA1AD6952ED980B1E99C661B525C /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				0076E0478DC88C073131CE451B181636 /* PBXTargetDependency */,
-				8E8513256449385FF21A32E1EFE0450D /* PBXTargetDependency */,
-				2C95FC1196498441323EB5400C29D1BB /* PBXTargetDependency */,
+				D6227E40A9BB8A245E5391D6A1D59FB7 /* PBXTargetDependency */,
 			);
 			name = "Pods-Parse ChatTests";
 			productName = "Pods-Parse ChatTests";
 			productReference = 8E86935B31AD70DCC29E2796B07DADB3 /* Pods_Parse_ChatTests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		967887506A672A72A27F1A8DCEA93CE3 /* Pods-Parse Chat */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 70CE12EE8BA2DD01B9F2F789212725A1 /* Build configuration list for PBXNativeTarget "Pods-Parse Chat" */;
-			buildPhases = (
-				5A6B03C55B7BC92830E88D1901E88095 /* Headers */,
-				A26F83E116ED85014278B82A9015567A /* Sources */,
-				2D7DF4C38FBCEF7BE68900382C9588A1 /* Frameworks */,
-				36B4A6C5577D7483A8B19B70175669DA /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "Pods-Parse Chat";
-			productName = "Pods-Parse Chat";
-			productReference = 897B96BA5315319A272A8DE6A0FF5C11 /* Pods_Parse_Chat.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		F0EF469DCC50C6AC7F1A8A2D774B43C4 /* Bolts */ = {
@@ -1957,6 +1937,26 @@
 			name = Bolts;
 			productName = Bolts;
 			productReference = F1E5CAE0D1B3DA164755491CD9955D0A /* Bolts.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		FF5F7189EFF244E20AD35666AA60DAE7 /* Pods-Parse Chat */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 482C9D3E27965A0F963FEFE4EFD9722D /* Build configuration list for PBXNativeTarget "Pods-Parse Chat" */;
+			buildPhases = (
+				ADA572AE876A2186FF6AEBE9D7A0C36E /* Headers */,
+				DC13514255C512042DD790B61A312A38 /* Sources */,
+				31200A2EBE6F73E579241C9D111B85DE /* Frameworks */,
+				F782D841C6A01370571DB9001041B18E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4E56ABECA1BDA986A24A910AEF11F563 /* PBXTargetDependency */,
+				7E06BB01E8599A63616FAE20277F160F /* PBXTargetDependency */,
+			);
+			name = "Pods-Parse Chat";
+			productName = "Pods-Parse Chat";
+			productReference = 897B96BA5315319A272A8DE6A0FF5C11 /* Pods_Parse_Chat.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -1983,22 +1983,15 @@
 				F0EF469DCC50C6AC7F1A8A2D774B43C4 /* Bolts */,
 				0DAF2EF4E33ABA57F284DC78B5207BE4 /* Parse */,
 				2187D2AF26414EB88AF20AB16E7A24F6 /* Parse-Parse */,
-				967887506A672A72A27F1A8DCEA93CE3 /* Pods-Parse Chat */,
-				6DA4B9D1BE0EAE929942BFED61DDDB5F /* Pods-Parse ChatTests */,
+				FF5F7189EFF244E20AD35666AA60DAE7 /* Pods-Parse Chat */,
+				DD55FC2DA4331F6AF34E16494DFF1B7E /* Pods-Parse ChatTests */,
 				5375653BC9F2229442004AD53AA405F4 /* Pods-Parse ChatUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		36B4A6C5577D7483A8B19B70175669DA /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		6E9B8BABC1D3DF902B8D8C22C89C9144 /* Resources */ = {
+		3F79EA1AD6952ED980B1E99C661B525C /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -2035,6 +2028,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		F782D841C6A01370571DB9001041B18E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -2050,6 +2050,14 @@
 				EDAB9EE80546E0B1D3007FC4B8C71B58 /* BFTaskCompletionSource.m in Sources */,
 				4F30E88B1D3B704BCA274E2BF19F6E6B /* Bolts-dummy.m in Sources */,
 				F01181FAFED32E6AE5BDBAD1AB5F0383 /* Bolts.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		43232FAD605B66FD8EEAD78CCBB19EF1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6C3C329CE46D7B2FA575AAB42E957D4F /* Pods-Parse ChatTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2223,14 +2231,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A26F83E116ED85014278B82A9015567A /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				DDB77DD68BC044A52DDD918D89CBACC0 /* Pods-Parse Chat-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		B74DABEADDB2843BD7CA049FB60A86E0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -2239,34 +2239,22 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		EB6169B96FB36986A95E24E38E09BA4E /* Sources */ = {
+		DC13514255C512042DD790B61A312A38 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				059B414325319BAEA9AA5D13D5605B10 /* Pods-Parse ChatTests-dummy.m in Sources */,
+				052FCE88C371587F9FBB6A1C4D52E6F0 /* Pods-Parse Chat-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0076E0478DC88C073131CE451B181636 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Bolts;
-			target = F0EF469DCC50C6AC7F1A8A2D774B43C4 /* Bolts */;
-			targetProxy = 332718A3DD3958CF1FCC3EA7E4DA054F /* PBXContainerItemProxy */;
-		};
 		20516B5C8AD2544389065A6AC8269D7E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-Parse Chat";
-			target = 967887506A672A72A27F1A8DCEA93CE3 /* Pods-Parse Chat */;
+			target = FF5F7189EFF244E20AD35666AA60DAE7 /* Pods-Parse Chat */;
 			targetProxy = EBE64A28212C9F964571ECBAF23D4604 /* PBXContainerItemProxy */;
-		};
-		2C95FC1196498441323EB5400C29D1BB /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Pods-Parse Chat";
-			target = 967887506A672A72A27F1A8DCEA93CE3 /* Pods-Parse Chat */;
-			targetProxy = 7E1DD1717BDE564FFCABFA6C08CE1450 /* PBXContainerItemProxy */;
 		};
 		4E3EF0C079AA99374099935EF4FD3DF7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -2274,17 +2262,29 @@
 			target = 2187D2AF26414EB88AF20AB16E7A24F6 /* Parse-Parse */;
 			targetProxy = 15AC417A58361771001426E177B0F415 /* PBXContainerItemProxy */;
 		};
-		8E8513256449385FF21A32E1EFE0450D /* PBXTargetDependency */ = {
+		4E56ABECA1BDA986A24A910AEF11F563 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = Bolts;
+			target = F0EF469DCC50C6AC7F1A8A2D774B43C4 /* Bolts */;
+			targetProxy = B1310AA5F8B1B81364134EA62953CCCF /* PBXContainerItemProxy */;
+		};
+		7E06BB01E8599A63616FAE20277F160F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Parse;
 			target = 0DAF2EF4E33ABA57F284DC78B5207BE4 /* Parse */;
-			targetProxy = F021BCE28C62E6C86E69DE0A8988A2D7 /* PBXContainerItemProxy */;
+			targetProxy = 841D535886B7168881E90F5A43DBA897 /* PBXContainerItemProxy */;
 		};
 		BFF6693FD9089B7C318395B35FAA2858 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Bolts;
 			target = F0EF469DCC50C6AC7F1A8A2D774B43C4 /* Bolts */;
 			targetProxy = 7C24E59AB4CFC05D881CFD0765B6AB30 /* PBXContainerItemProxy */;
+		};
+		D6227E40A9BB8A245E5391D6A1D59FB7 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-Parse Chat";
+			target = FF5F7189EFF244E20AD35666AA60DAE7 /* Pods-Parse Chat */;
+			targetProxy = BD211D1AD904DBE60F2D5CE927A3F5FD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -2420,9 +2420,9 @@
 			};
 			name = Release;
 		};
-		199BFCF5172A4FDF74C19F3F6ACE4A54 /* Debug */ = {
+		1B075D4AF9FC985AB43F25E4051C402E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 66A5248FFD7FEF4431C072E01A0E8905 /* Pods-Parse Chat.debug.xcconfig */;
+			baseConfigurationReference = F858359573E903813DC51CDCBF65BA01 /* Pods-Parse ChatTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -2435,7 +2435,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Parse Chat/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-Parse ChatTests/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -2444,7 +2444,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Parse Chat/Pods-Parse Chat.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-Parse ChatTests/Pods-Parse ChatTests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -2457,45 +2457,6 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
-		};
-		2387D77C496A6FD081AE0BA9A15C8908 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E6FDA87AC0A33EC0856A91CA19C79421 /* Pods-Parse Chat.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Parse Chat/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Parse Chat/Pods-Parse Chat.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
 		};
 		2CF713C8E3630C9FE833B7600F8F4F69 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -2532,7 +2493,7 @@
 			};
 			name = Debug;
 		};
-		557D8552CE5347B231637D195894B034 /* Release */ = {
+		4A43EAC0EDB311988F67E8B8D8D4E8AF /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9EF33B78881A44532849516F9A293331 /* Pods-Parse ChatTests.release.xcconfig */;
 			buildSettings = {
@@ -2571,44 +2532,6 @@
 			};
 			name = Release;
 		};
-		5FC27297D13CC6D312D65ECE104EBD1B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F858359573E903813DC51CDCBF65BA01 /* Pods-Parse ChatTests.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-Parse ChatTests/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-Parse ChatTests/Pods-Parse ChatTests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		730560BDA49B77E66426338DC883FFA1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 9F81901F4A3FAA1F4E13A46D463E75C4 /* Pods-Parse ChatUITests.release.xcconfig */;
@@ -2634,6 +2557,45 @@
 				);
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-Parse ChatUITests/Pods-Parse ChatUITests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		8567FB285804B4245FD19A5CE7DE5A26 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E6FDA87AC0A33EC0856A91CA19C79421 /* Pods-Parse Chat.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Parse Chat/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Parse Chat/Pods-Parse Chat.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -2714,6 +2676,44 @@
 				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
+		};
+		CE760F58D9866E8F337CC4791BDC4C01 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 66A5248FFD7FEF4431C072E01A0E8905 /* Pods-Parse Chat.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-Parse Chat/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-Parse Chat/Pods-Parse Chat.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
 		};
 		E246FC26AF4A9832D7AA01080188D618 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -2856,6 +2856,15 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		482C9D3E27965A0F963FEFE4EFD9722D /* Build configuration list for PBXNativeTarget "Pods-Parse Chat" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				CE760F58D9866E8F337CC4791BDC4C01 /* Debug */,
+				8567FB285804B4245FD19A5CE7DE5A26 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		656E3EB435342DED50CDF1E962943FD0 /* Build configuration list for PBXNativeTarget "Parse" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -2865,20 +2874,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		70CE12EE8BA2DD01B9F2F789212725A1 /* Build configuration list for PBXNativeTarget "Pods-Parse Chat" */ = {
+		9438B5C7392C06C955BDD4209521FC51 /* Build configuration list for PBXNativeTarget "Pods-Parse ChatTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				199BFCF5172A4FDF74C19F3F6ACE4A54 /* Debug */,
-				2387D77C496A6FD081AE0BA9A15C8908 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		CA409A784C8711359536046147245A27 /* Build configuration list for PBXNativeTarget "Pods-Parse ChatTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				5FC27297D13CC6D312D65ECE104EBD1B /* Debug */,
-				557D8552CE5347B231637D195894B034 /* Release */,
+				1B075D4AF9FC985AB43F25E4051C402E /* Debug */,
+				4A43EAC0EDB311988F67E8B8D8D4E8AF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

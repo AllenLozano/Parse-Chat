@@ -6,10 +6,10 @@ target 'Parse Chat' do
   use_frameworks!
 
   # Pods for Parse Chat
-
+  pod 'Parse'
   target 'Parse ChatTests' do
     inherit! :search_paths
-     pod 'Parse'
+    
     # Pods for testing
   end
 
